@@ -28,7 +28,7 @@ ollama pull llama2
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/lingua-flow.git
+git clone https://github.com/YYYDH/lingua-flow.git
 cd lingua-flow
 ```
 
